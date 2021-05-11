@@ -1,9 +1,9 @@
 <h1 align="center">Hello 👋, I'm Cícero Henrique</h1>
-<h3 align="center">Bacharel em Sistemas de Informação com 5 anos de experiência em tecnologias de Fabricação Digital e FAB LABs pela rede pública de laboratórios FAB LAB LIVRE SP. Sou apaixonado por aprender e usar tecnologia, sempre buscanso novos conhecimentos e desafios, atualmente me aventuro com Robótica, Drones, Dados e I.A..</h3>
+<h3 align="center">Bachelor of Information Systems with 5 years of experience in Digital Manufacturing technologies and FAB LABs by the public network of laboratories FAB LAB LIVRE SP. I am passionate about learning and using technology, always looking for new knowledge and challenges, currently I venture with Robotics, Drones, Data and AI.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cicerooficial&label=Profile%20views&color=0e75b6&style=flat" alt="cicerooficial" /> </p>
 
-- 🔭 Atualmente estou trabalhando em [Python](https://github.com/cicerooficial/curso_Python3)
+- 🔭 I am currently working on [Python](https://github.com/cicerooficial/curso_Python3)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
