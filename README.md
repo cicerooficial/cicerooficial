@@ -8,7 +8,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   
-<a href="cicerooficial@gmail.com" rel="nofollow" target="_blank">
+<a href=mailto:cicerooficial@gmail.com?subject="link HTML" rel="nofollow" target="_blank">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 <a/>
 <a href="https://linkedin.com/in/cícero-henrique-83b766bb/" rel="nofollow" target="_blank">
