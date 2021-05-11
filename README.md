@@ -1,5 +1,5 @@
-<h1 align="center">Olá 👋, Sou o C. Henrique</h1>
-<h3 align="center">Bacharel em Sistemas de Informação com 5 anos de experiência em tecnologias de Fabricação Digital e FAB LABs pela rede pública de laboratórios FAB LAB LIVRE SP. Sou apaixonado por aprender e ensinar tecnologia, sempre buscanso novos conhecimentos e desafios, atualmente me aventuro com Robótica, Drones, Dados e I.A..</h3>
+<h1 align="center">Hello 👋, I'm Cícero Henrique</h1>
+<h3 align="center">Bacharel em Sistemas de Informação com 5 anos de experiência em tecnologias de Fabricação Digital e FAB LABs pela rede pública de laboratórios FAB LAB LIVRE SP. Sou apaixonado por aprender e usar tecnologia, sempre buscanso novos conhecimentos e desafios, atualmente me aventuro com Robótica, Drones, Dados e I.A..</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cicerooficial&label=Profile%20views&color=0e75b6&style=flat" alt="cicerooficial" /> </p>
 
