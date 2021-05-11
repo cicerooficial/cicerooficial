@@ -38,6 +38,6 @@
 
 <p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=cicerooficial&show_icons=true&locale=en&layout=compact" alt="cicerooficial" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cicerooficial&show_icons=true&locale=en" alt="cicerooficial" /></p>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=cicerooficial&show_icons=true&locale=en" alt="cicerooficial" /></p>
 
 
