@@ -38,4 +38,4 @@
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cicerooficial&layout=compact)](https://github.com/cicerooficial/github-readme-stats)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cicerooficial&show_icons=true&theme=dark)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cicerooficial&show_icons=true&theme=dracula)
