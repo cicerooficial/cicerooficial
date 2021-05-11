@@ -30,7 +30,7 @@
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
   </a>
   <a href="https://www.kaggle.com/cicerohenrique" rel="nofollow" target="_blank">
-    <img src="https://img.shields.io/badge/Kaggle-FFFFFF?style=for-the-badge&logo=kaggle&logoColor=2962ff">
+    <img src="https://img.shields.io/badge/Kaggle-2962ff?style=for-the-badge&logo=kaggle&logoColor=white">
   </a> 
 
 
