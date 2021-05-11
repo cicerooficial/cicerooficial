@@ -7,7 +7,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/ch" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="ch" height="30" width="40" /></a>
+<a href="https://dev.to/ch" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="ch" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/cícero-henrique-83b766bb/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/linked-in-alt.svg" alt="cícero-henrique-83b766bb/" height="30" width="40" /></a>
 <a href="https://kaggle.com/cicerohenrique" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/kaggle.svg" alt="cicerohenrique" height="30" width="40" /></a>
 <a href="https://fb.com/cicero.henrique.754" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/facebook.svg" alt="cicero.henrique.754" height="30" width="40" /></a>
@@ -39,3 +39,5 @@
 <p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=cicerooficial&show_icons=true&locale=en&layout=compact" alt="cicerooficial" /></p>
 
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=cicerooficial&show_icons=true&locale=en" alt="cicerooficial" /></p>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
