@@ -12,7 +12,7 @@
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" title="LinkedIn" style="max-width:100%;">
 </a>  
 
-<img src="{https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white}" />
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   
 <a href="https://dev.to/ch" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="ch" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/cícero-henrique-83b766bb/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/linked-in-alt.svg" alt="cícero-henrique-83b766bb/" height="30" width="40" /></a>
