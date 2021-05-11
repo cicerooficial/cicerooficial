@@ -23,6 +23,9 @@
   <a href="https://www.youtube.com/channel/UCi23a3VJwS6pWJvxyKaeZGQ" rel="nofollow" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
   </a>
+  <a href="XxCHxX#2680" rel="nofollow" target="_blank">
+    <img src="https://img.shields.io/badge/Xbox-107C10?style=for-the-badge&logo=xbox&logoColor=white">
+  </a>
   <a href="https://github.com/cicerooficial" rel="nofollow" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
   </a>
