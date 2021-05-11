@@ -38,5 +38,5 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=cicerooficial&show_icons=true&locale=en&layout=compact" alt="cicerooficial" />
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=cicerooficial&show_icons=true&locale=en" alt="cicerooficial" /></p>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=cicerooficial&show_icons=true&locale=en" alt="cicerooficial" /></p>
 
