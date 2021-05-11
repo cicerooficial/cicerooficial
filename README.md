@@ -36,6 +36,6 @@
   <a href="https://www.raspberrypi.org/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/raspberry-pi.svg" alt="raspberry" width="40" height="40"/> </a>
   
   
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=cicerooficial&show_icons=true&locale=en" alt="cicerooficial" /></p>
-
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=cicerooficial&show_icons=true&locale=en&layout=compact" alt="cicerooficial" />
+ 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cicerooficial&show_icons=true&theme=dracula)
