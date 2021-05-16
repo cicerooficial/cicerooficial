@@ -1,13 +1,14 @@
 <h3 align="center"> Hello <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Cícero Henrique</h3>
 
 * ### **About me:**
-<h3 align="center">Bachelor of Information Systems with 5 years of experience in Digital Manufacturing technologies and FAB LABs by the public network of laboratories FAB LAB LIVRE SP. I am passionate about learning and using technology, always looking for new knowledge and challenges, currently I venture with Robotics, Drones, Data and AI.</h3>
+<h3 align="left ">Bachelor of Information Systems with 5 years of experience in Digital Manufacturing technologies and FAB LABs by the public network of laboratories FAB LAB LIVRE SP. I am passionate about learning and using technology, always looking for new knowledge and challenges, currently I venture with Robotics, Drones, Data and AI.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cicerooficial&label=Profile%20views&color=0e75b6&style=flat" alt="cicerooficial" /> </p>
 
-<h3>- 🔭 I am currently working on [Python](https://github.com/cicerooficial/curso_Python3) and [Data Science Beginner](https://github.com/cicerooficial/curso_MENTORAMA_Data_Science_Beginner) </h3>
+* ### **I am currently working on:**
+<h3>[Python](https://github.com/cicerooficial/curso_Python3) and [Data Science Beginner](https://github.com/cicerooficial/curso_MENTORAMA_Data_Science_Beginner) </h3>
 
-<h3 align="left">Connect with me:</h3>
+* ### **Connect with me:**
 <p align="left">
   
   <a href="mailto:cicerooficial@gmail.com?" rel="nofollow" target="_blank">
@@ -41,7 +42,7 @@
     <img src="https://img.shields.io/badge/Kaggle-2962ff?style=for-the-badge&logo=kaggle&logoColor=white">
   </a> 
 
-<h3 align="left">OS | Languages | Frameworks/Tools:</h3>
+* ### **OS | Languages | Frameworks/Tools:**
 <p align="left">
   <a href="https://www.microsoft.com/pt-br/windows/" target="_blank"> <img src="https://image.flaticon.com/icons/png/512/732/732221.png" alt="windows" width="40" height="40"/> </a>
   <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
