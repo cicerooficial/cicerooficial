@@ -1,12 +1,11 @@
-<h3 align="center"> Hello <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Cícero Henrique</h3>
+<h4 align="center"> Hello <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Cícero Henrique</h4>
 
 * ### **About me:**
-<h3 align="left ">Bachelor of Information Systems with 5 years of experience in Digital Manufacturing technologies and FAB LABs by the public network of laboratories FAB LAB LIVRE SP. I am passionate about learning and using technology, always looking for new knowledge and challenges, currently I venture with Robotics, Drones, Data and AI.</h3>
-
+<h4 align="left ">Bachelor of Information Systems with 5 years of experience in Digital Manufacturing technologies and FAB LABs by the public network of laboratories FAB LAB LIVRE SP. I am passionate about learning and using technology, always looking for new knowledge and challenges, currently I venture with Robotics, Drones, Data and AI.</h4>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cicerooficial&label=Profile%20views&color=0e75b6&style=flat" alt="cicerooficial" /> </p>
 
 * ### **I am currently working on:**
-<h3>[Python](https://github.com/cicerooficial/curso_Python3) and [Data Science Beginner](https://github.com/cicerooficial/curso_MENTORAMA_Data_Science_Beginner) </h3>
+<h4>[Python](https://github.com/cicerooficial/curso_Python3) and [Data Science Beginner](https://github.com/cicerooficial/curso_MENTORAMA_Data_Science_Beginner) </h4>
 
 * ### **Connect with me:**
 <p align="left">
