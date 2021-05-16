@@ -1,4 +1,4 @@
-<h4 align="center"> Hello <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Cícero Henrique</h4>
+<h3 align="center"> Hello <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Cícero Henrique</h3>
 
 * ### **About me:**
 <h4 align="left ">Bachelor of Information Systems with 5 years of experience in Digital Manufacturing technologies and FAB LABs by the public network of laboratories FAB LAB LIVRE SP. I am passionate about learning and using technology, always looking for new knowledge and challenges, currently I venture with Robotics, Drones, Data and AI.</h4>
