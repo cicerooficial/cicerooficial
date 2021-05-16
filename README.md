@@ -5,7 +5,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cicerooficial&label=Profile%20views&color=0e75b6&style=flat" alt="cicerooficial" /> </p>
 
 * ### **I am currently working on:**
-<h4>[Python](https://github.com/cicerooficial/curso_Python3) and [Data Science Beginner](https://github.com/cicerooficial/curso_MENTORAMA_Data_Science_Beginner) </h4>
+- [Python](https://github.com/cicerooficial/curso_Python3) and [Data Science Beginner](https://github.com/cicerooficial/curso_MENTORAMA_Data_Science_Beginner)
 
 * ### **Connect with me:**
 <p align="left">
