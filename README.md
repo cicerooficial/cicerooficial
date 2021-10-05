@@ -21,9 +21,9 @@
 
 * ### **OS**
 <p align="left">
-  <a href="https://www.microsoft.com/pt-br/windows/" target="_blank"> <img src="https://image.flaticon.com/icons/png/512/732/732221.png" alt="windows" width="40" height="40"/> </a>
   <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
   <a href="https://ubuntu.com/" target="_blank"> <img src="https://seeklogo.com/images/U/ubuntu-logo-8FDEC6A07B-seeklogo.com.png" alt="ubuntu" width="40" height="40"/> </a>
+  <a href="https://www.microsoft.com/pt-br/windows/" target="_blank"> <img src="https://image.flaticon.com/icons/png/512/732/732221.png" alt="windows" width="40" height="40"/> </a>
   <a href="https://developer.android.com" target="_blank"> <img src="https://iconape.com/wp-content/files/nd/33729/svg/android-logomark.svg" alt="android" width="40" height="40"/> </a>
   
 * ### **Language**
