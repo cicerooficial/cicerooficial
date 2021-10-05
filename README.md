@@ -16,7 +16,7 @@
   
 </div>
 
-* ### **I am currently working on:** [Python](https://github.com/cicerooficial/curso_Python3), [Data Science Beginner](https://github.com/cicerooficial/curso_MENTORAMA_Data_Science_Beginner) [Big Data Enginner](https://github.com/cicerooficial/big-data-engineer-sematix) and [Cloud Data Engineer](https://github.com/cicerooficial/cloud-data-engineer-cognizant)
+* ### **I am currently working on:** <h4>[Python](https://github.com/cicerooficial/curso_Python3), [Data Science Beginner](https://github.com/cicerooficial/curso_MENTORAMA_Data_Science_Beginner) [Big Data Enginner](https://github.com/cicerooficial/big-data-engineer-sematix) and [Cloud Data Engineer](https://github.com/cicerooficial/cloud-data-engineer-cognizant)</h4>
 
 * ### **OS**
 <p align="left">
