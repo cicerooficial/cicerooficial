@@ -8,26 +8,16 @@
 - [Python](https://github.com/cicerooficial/curso_Python3), [Data Science Beginner](https://github.com/cicerooficial/curso_MENTORAMA_Data_Science_Beginner) and [Big Data Enginner](https://github.com/cicerooficial/big-data-engineer-sematix)
 
 * ### **Connect with me:**
-<p align="left">
+<div align="center">
+
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cicero-henrique-santos/)&nbsp;&nbsp;
+[![Kaggle Badge](https://img.shields.io/badge/-Kaggle-23BFFF?style=flat&logo=Kaggle&logoColor=white)](https://www.kaggle.com/cicerohenrique)&nbsp;&nbsp;
+[![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/c_hoficial)&nbsp;&nbsp;
+[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white&link=mailto:cicerooficial@gmail.com.com)](mailto:cicerooficial@gmail.com)&nbsp;&nbsp;
+[![Youtube Badge](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCi23a3VJwS6pWJvxyKaeZGQ)&nbsp;&nbsp;
+[![Behance Badge](https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/ccerohenrique)&nbsp;&nbsp;
   
-  <a href="mailto:cicerooficial@gmail.com?" rel="nofollow" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  <a/>
-  <a href="https://linkedin.com/in/cicero-henrique-santos/" rel="nofollow" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>  
-  <a href="https://www.instagram.com/c_hoficial/" rel="nofollow" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
-  </a>
-  <a href="https://www.youtube.com/channel/UCi23a3VJwS6pWJvxyKaeZGQ" rel="nofollow" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
-  </a>
-  <a href="https://www.behance.net/ccerohenrique" rel="nofollow" target="_blank">
-    <img src="https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white">
-  </a>  
-  <a href="https://www.kaggle.com/cicerohenrique" rel="nofollow" target="_blank">
-    <img src="https://img.shields.io/badge/Kaggle-2962ff?style=for-the-badge&logo=kaggle&logoColor=white">
-  </a> 
+</div>
 
 * ### **OS | Languages | Frameworks/Tools:**
 <p align="left">
