@@ -61,7 +61,7 @@
   Bootcamp da DIO (Digital Inovation One) focado em engenharia de dados com cloud, conceitos de big data e criação de soluções em Python promovido pela Cognizant.
 
 ## **Habilidades e Ferramentas**:
-- **Banco de Dados:** SQL, MySQL, Postgres, HBase, Hive, MongoDB, Redis e Elasticsearch.
+- **Banco de Dados:** SQL, MySQL, PostgreSQL, HBase, Hive, MongoDB, Redis e Elasticsearch.
 - **Linguagem de Programação:** HTML, CSS, JavaScript, Python e Java. 
 - **Desenvolvimento:** Git, Linux and Docker.
 - **Data Enginner:** Kafka e Spark.
