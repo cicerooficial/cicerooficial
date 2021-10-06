@@ -5,22 +5,69 @@
 </div>    
 
   <h3 align="center"> 
-    Hello <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Cícero Henrique
+    Oi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, sou Cícero Henrique
   </h3>
 
-## **About me:**
-  <h4> 
-    Bachelor of Information Systems with 5 years of experience in Digital Manufacturing technologies and FAB LABs by the public network of laboratories FAB LAB LIVRE SP. I am passionate about learning and using technology, always looking for new knowledge and challenges, currently I venture with Arduino, Raspberry, Robotics, Data and AI.
+
+## **Sobre mim:**
+  <h4>
+      Bacharel em Sistemas de Informação com mais de 5 anos de experiência em tecnologias de Fabricação Digital e FAB LABs, pela rede pública de laboratórios FAB LAB LIVRE SP.
+      Sou apaixonado por aprender e ensinar tecnologia, estou sempre buscando novos conhecimentos e desafios.
+      Atualmente estudo sobre Data Enginner e Data Science e me aventuro com projetos utilizando Arduino, Raspberry, Robótica e IoT(com ESP32).
   </h4>
 
-## **Connect with me:**
+## **Me encontre em:**
 
 ## <div align=center>[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white&link=mailto:cicerooficial@gmail.com.com)](mailto:cicerooficial@gmail.com)  [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cicero-henrique-santos/)  [![Behance Badge](https://img.shields.io/badge/-Behance-blue?style=flat&logo=behance&logoColor=white)](https://www.behance.net/ccerohenrique)  [![Kaggle Badge](https://img.shields.io/badge/-Kaggle-23BFFF?style=flat&logo=Kaggle&logoColor=white)](https://www.kaggle.com/cicerohenrique)  [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/c_hoficial)  [![Youtube Badge](https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCi23a3VJwS6pWJvxyKaeZGQ)</div>
 
-## **I am currently working on:** 
-[Python](https://github.com/cicerooficial/curso_Python3), [Data Science Beginner](https://github.com/cicerooficial/curso_MENTORAMA_Data_Science_Beginner), [Big Data Enginner](https://github.com/cicerooficial/big-data-engineer-sematix) and [Cloud Data Engineer](https://github.com/cicerooficial/cloud-data-engineer-cognizant)
+## **O que estou estudando:** 
+* [Python](https://github.com/cicerooficial/curso_Python3)
 
-## **Programming Language | Frameworks/Tools**
+  • Python 3 básico (com lógica de programação)
+
+  • Python 3 intermediário (com programação procedural e funcional)
+
+  • Python 3 avançado (com programação orientada a objetos)
+
+  • Módulos do Python, como PyQT5 para GUI, Selenium e muito mais
+
+  • Django para criação de sites e APIs
+
+  • Bases de dados relacionais: SQLite3, MySQL e MariaDB
+
+  • Testes no Python (com TDD básico)
+
+  • Expressões Regulares (Regex re)
+
+  • Padrões de projeto (Design Patterns da GoF)
+
+* [Data Science Beginner](https://github.com/cicerooficial/curso_MENTORAMA_Data_Science_Beginner)
+
+  O curso Cientista de dados do zero ao PRO com duração de 8 Meses, tem como principal objetivo habilitar o profissional para ser capaz de trabalhar com:
+
+  • Domínio das linguagens Python e R afim de trabalhar com grandes sequências, processar dados estátiscos, trabalhar com gráficos e criar painéis;
+  • Aprender a utilizar bibliotecas Numpy, Pandas;
+  • Utilizar bancos de dados SQL, SQLite3, PostgreSQL e MongoDB em testes de idéias, formular hipóteses e testá-las;
+  • Criar sistemas de recomendação;
+  • Construção de modelos analíticos, classificação e regressão com Machine Learning e Clusterização;
+  • Treinar redes neurais usando frameworks aumentando a velocidade do trabalho;
+  • Resolver problemas reais usando redes neurais.
+
+* [Big Data Enginner](https://github.com/cicerooficial/big-data-engineer-sematix)
+
+  Bootcamp promovido pela Semantix Inc. focado em ambientes e ferramentas para engenharia de dados como: Big Data FOundations, MongoDB, Redis, Kafka, Elastic e Spark.
+
+* [Cloud Data Engineer](https://github.com/cicerooficial/cloud-data-engineer-cognizant)
+
+  Bootcamp da DIO (Digital Inovation One) focado em engenharia de dados com cloud, conceitos de big data e criação de soluções em Python promovido pela Cognizant.
+
+## **Habilidades e Ferramentas**:
+- **Banco de Dados:** SQL, MySQL e Postgres.
+- **Linguagem de Programação:** HTML, CSS, JavaScript, Python e Java. 
+- **Desenvolvimento:** Git, Linux and Docker.
+- **Ferramentas:** VSCode, PyCharm, Jupyter e Postman.
+- **Hardware:** Arduino, ESP8266, ESP32 e Raspberry Pi.
+
 <p align="left">
   <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
   <a href="https://ubuntu.com/" target="_blank"> <img src="https://seeklogo.com/images/U/ubuntu-logo-8FDEC6A07B-seeklogo.com.png" alt="ubuntu" width="40" height="40"/> </a>
@@ -42,6 +89,7 @@
   <a href="https://www.arduino.cc/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a>
   <a href="https://www.raspberrypi.org/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/raspberry-pi.svg" alt="raspberry" width="40" height="40"/> </a>
 </p>
+
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cicerooficial&show_icons=true&theme=algolia)
 
