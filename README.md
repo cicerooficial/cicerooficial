@@ -18,10 +18,26 @@
 
 ## **Me encontre em:**
 
-## <div align=center>[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white&link=mailto:cicerooficial@gmail.com.com)](mailto:cicerooficial@gmail.com)  [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cicero-henrique-santos/)  [![Behance Badge](https://img.shields.io/badge/-Behance-blue?style=flat&logo=behance&logoColor=white)](https://www.behance.net/ccerohenrique)  [![Kaggle Badge](https://img.shields.io/badge/-Kaggle-23BFFF?style=flat&logo=Kaggle&logoColor=white)](https://www.kaggle.com/cicerohenrique)  [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/c_hoficial)  [![Youtube Badge](https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCi23a3VJwS6pWJvxyKaeZGQ)</div>
+## <div align=center>
+
+## [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white&link=mailto:cicerooficial@gmail.com.com)](mailto:cicerooficial@gmail.com)&nbsp;&nbsp;
+
+## [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cicero-henrique-santos/)&nbsp;&nbsp;
+
+## [![Behance Badge](https://img.shields.io/badge/-Behance-blue?style=flat&logo=behance&logoColor=white)](https://www.behance.net/ccerohenrique)&nbsp;&nbsp;
+
+## [![Kaggle Badge](https://img.shields.io/badge/-Kaggle-23BFFF?style=flat&logo=Kaggle&logoColor=white)](https://www.kaggle.com/cicerohenrique)&nbsp;&nbsp;
+
+## [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/c_hoficial)&nbsp;&nbsp;
+
+## [![Youtube Badge](https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCi23a3VJwS6pWJvxyKaeZGQ)&nbsp;&nbsp;
+
+## </div>
+
+<br>
 
 ## **O que estou estudando:** 
-* [Python](https://github.com/cicerooficial/curso_Python3)
+* **[Python](https://github.com/cicerooficial/curso_Python3)**
 
   Curso voltado para desenvolver habilidades em Python 3 desde o básico (com lógica de programação), intermediário (com programação procedural e funcional) e avançado (com programação orientada a objetos). 
 
@@ -39,7 +55,7 @@
 
   • Padrões de projeto (Design Patterns da GoF).
 
-* [Data Science](https://github.com/cicerooficial/data-science-mentorama)
+* **[Data Science](https://github.com/cicerooficial/data-science-mentorama)**
 
   O curso Cientista de dados do zero ao PRO com duração de 8 Meses, tem como principal objetivo habilitar o profissional para ser capaz de trabalhar com:
 
@@ -51,11 +67,11 @@
   • Treinar redes neurais usando frameworks aumentando a velocidade do trabalho;
   • Resolver problemas reais usando redes neurais.
 
-* [Big Data Enginner](https://github.com/cicerooficial/big-data-engineer-sematix)
+* **[Big Data Enginner](https://github.com/cicerooficial/big-data-engineer-sematix)**
 
   Bootcamp promovido pela Semantix Inc. focado em ambientes e ferramentas para engenharia de dados como: Big Data FOundations, MongoDB, Redis, Kafka, Elastic e Spark.
 
-* [Cloud Data Engineer](https://github.com/cicerooficial/cloud-data-engineer-cognizant)
+* **[Cloud Data Engineer](https://github.com/cicerooficial/cloud-data-engineer-cognizant)**
 
   Bootcamp da DIO (Digital Inovation One) focado em engenharia de dados com cloud, conceitos de big data e criação de soluções em Python promovido pela Cognizant.
 
