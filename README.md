@@ -1,4 +1,8 @@
-<img src="https://komarev.com/ghpvc/?username=cicerooficial&label=Profile%20views&color=0e75b6&style=flat" alt="cicerooficial" />
+
+
+<div align="center">
+      <img src="https://komarev.com/ghpvc/?username=cicerooficial&label=Profile%20views&color=0e75b6&style=flat" alt="cicerooficial" />
+</div>    
 
   <h3 align="center"> 
     Hello <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Cícero Henrique
@@ -10,17 +14,13 @@
   </h4>
 
 ## **Connect with me:**
-  [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white&link=mailto:cicerooficial@gmail.com.com)](mailto:cicerooficial@gmail.com)&nbsp;&nbsp;
-  [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cicero-henrique-santos/)&nbsp;&nbsp;
-  [![Behance Badge](https://img.shields.io/badge/-Behance-blue?style=flat&logo=behance&logoColor=white)](https://www.behance.net/ccerohenrique)&nbsp;&nbsp;
-  [![Kaggle Badge](https://img.shields.io/badge/-Kaggle-23BFFF?style=flat&logo=Kaggle&logoColor=white)](https://www.kaggle.com/cicerohenrique)&nbsp;&nbsp;
-  [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/c_hoficial)&nbsp;&nbsp;
-  [![Youtube Badge](https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCi23a3VJwS6pWJvxyKaeZGQ)&nbsp;&nbsp;
-  
+
+## <div align=center>[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white&link=mailto:cicerooficial@gmail.com.com)](mailto:cicerooficial@gmail.com)[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cicero-henrique-santos/)[![Behance Badge](https://img.shields.io/badge/-Behance-blue?style=flat&logo=behance&logoColor=white)](https://www.behance.net/ccerohenrique)[![Kaggle Badge](https://img.shields.io/badge/-Kaggle-23BFFF?style=flat&logo=Kaggle&logoColor=white)](https://www.kaggle.com/cicerohenrique)[![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/c_hoficial)[![Youtube Badge](https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCi23a3VJwS6pWJvxyKaeZGQ)</div>
+
 ## **I am currently working on:** 
 [Python](https://github.com/cicerooficial/curso_Python3), [Data Science Beginner](https://github.com/cicerooficial/curso_MENTORAMA_Data_Science_Beginner), [Big Data Enginner](https://github.com/cicerooficial/big-data-engineer-sematix) and [Cloud Data Engineer](https://github.com/cicerooficial/cloud-data-engineer-cognizant)
 
-## **OS | Programming Language | Frameworks/Tools**
+## **Programming Language | Frameworks/Tools**
 <p align="left">
   <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
   <a href="https://ubuntu.com/" target="_blank"> <img src="https://seeklogo.com/images/U/ubuntu-logo-8FDEC6A07B-seeklogo.com.png" alt="ubuntu" width="40" height="40"/> </a>
@@ -43,7 +43,5 @@
   <a href="https://www.raspberrypi.org/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/raspberry-pi.svg" alt="raspberry" width="40" height="40"/> </a>
 </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cicerooficial&layout=compact)](https://github.com/cicerooficial/github-readme-stats)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cicerooficial&show_icons=true&theme=algolia)]
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cicerooficial&show_icons=true&theme=algolia)
 
