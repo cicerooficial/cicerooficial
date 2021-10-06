@@ -4,16 +4,16 @@
       <img src="https://komarev.com/ghpvc/?username=cicerooficial&label=Profile%20views&color=0e75b6&style=flat" alt="cicerooficial" />
 </div>    
 
-  <h3 align="center"> 
+  <h1 align="center"> 
     Oi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, sou Cícero Henrique
-  </h3>
+  </h1>
 
 
 ## **Sobre mim:**
   <h4>
       Bacharel em Sistemas de Informação com mais de 5 anos de experiência em tecnologias de Fabricação Digital e FAB LABs, pela rede pública de laboratórios FAB LAB LIVRE SP.
       Sou apaixonado por aprender e ensinar tecnologia, estou sempre buscando novos conhecimentos e desafios.
-      Atualmente estudo sobre Data Enginner e Data Science e me aventuro com projetos utilizando Arduino, Raspberry, Robótica e IoT(com ESP32).
+      Atualmente trabalho com Data Enginner e Data Science e me aventuro com projetos de automação, robótica e IoT(Internet das Coisas) utilizando Arduino, Raspberry e ESP8266/ESP32.
   </h4>
 
 ## **Me encontre em:**
@@ -41,7 +41,7 @@
 
   • Padrões de projeto (Design Patterns da GoF)
 
-* [Data Science Beginner](https://github.com/cicerooficial/curso_MENTORAMA_Data_Science_Beginner)
+* [Data Science](https://github.com/cicerooficial/data-science-mentorama)
 
   O curso Cientista de dados do zero ao PRO com duração de 8 Meses, tem como principal objetivo habilitar o profissional para ser capaz de trabalhar com:
 
