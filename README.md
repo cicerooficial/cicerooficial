@@ -23,23 +23,21 @@
 ## **O que estou estudando:** 
 * [Python](https://github.com/cicerooficial/curso_Python3)
 
-  • Python 3 básico (com lógica de programação)
+  Curso voltado para desenvolver habilidades em Python 3 desde o básico (com lógica de programação), intermediário (com programação procedural e funcional) e avançado (com programação orientada a objetos). 
 
-  • Python 3 intermediário (com programação procedural e funcional)
+  Além disso, o curso também desenvolve conhecimentos em: 
 
-  • Python 3 avançado (com programação orientada a objetos)
+  • Módulos do Python, como PyQT5 para GUI, Selenium;
 
-  • Módulos do Python, como PyQT5 para GUI, Selenium e muito mais
+  • Django para criação de sites e APIs;
 
-  • Django para criação de sites e APIs
+  • Bases de dados relacionais: SQLite3, MySQL e MariaDB;
 
-  • Bases de dados relacionais: SQLite3, MySQL e MariaDB
+  • Testes no Python (com TDD básico);
 
-  • Testes no Python (com TDD básico)
+  • Expressões Regulares (Regex re);
 
-  • Expressões Regulares (Regex re)
-
-  • Padrões de projeto (Design Patterns da GoF)
+  • Padrões de projeto (Design Patterns da GoF).
 
 * [Data Science](https://github.com/cicerooficial/data-science-mentorama)
 
