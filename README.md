@@ -64,6 +64,7 @@
 - **Banco de Dados:** SQL, MySQL e Postgres.
 - **Linguagem de Programação:** HTML, CSS, JavaScript, Python e Java. 
 - **Desenvolvimento:** Git, Linux and Docker.
+- **Data Enginner:** Redis, Kafka, Elastic e Spark.
 - **Ferramentas:** VSCode, PyCharm, Jupyter e Postman.
 - **Hardware:** Arduino, ESP8266, ESP32 e Raspberry Pi.
 
