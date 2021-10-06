@@ -4,13 +4,12 @@
     Hello <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Cícero Henrique
   </h3>
 
-* ### **About me:**
+### **About me:**
   <h4> 
     Bachelor of Information Systems with 5 years of experience in Digital Manufacturing technologies and FAB LABs by the public network of laboratories FAB LAB LIVRE SP. I am passionate about learning and using technology, always looking for new knowledge and challenges, currently I venture with Arduino, Raspberry, Robotics, Data and AI.
   </h4>
 
-* ### **Connect with me:**
-
+### **Connect with me:**
   [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white&link=mailto:cicerooficial@gmail.com.com)](mailto:cicerooficial@gmail.com)&nbsp;&nbsp;
   [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cicero-henrique-santos/)&nbsp;&nbsp;
   [![Behance Badge](https://img.shields.io/badge/-Behance-blue?style=flat&logo=behance&logoColor=white)](https://www.behance.net/ccerohenrique)&nbsp;&nbsp;
@@ -18,7 +17,10 @@
   [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/c_hoficial)&nbsp;&nbsp;
   [![Youtube Badge](https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCi23a3VJwS6pWJvxyKaeZGQ)&nbsp;&nbsp;
 
-* ### **I am currently working on:** <h4>[Python](https://github.com/cicerooficial/curso_Python3), [Data Science Beginner](https://github.com/cicerooficial/curso_MENTORAMA_Data_Science_Beginner), [Big Data Enginner](https://github.com/cicerooficial/big-data-engineer-sematix) and [Cloud Data Engineer](https://github.com/cicerooficial/cloud-data-engineer-cognizant)</h4>
+### **I am currently working on:** 
+<h4>
+  [Python](https://github.com/cicerooficial/curso_Python3), [Data Science Beginner](https://github.com/cicerooficial/curso_MENTORAMA_Data_Science_Beginner), [Big Data Enginner](https://github.com/cicerooficial/big-data-engineer-sematix) and [Cloud Data Engineer](https://github.com/cicerooficial/cloud-data-engineer-cognizant)
+</h4>
 
 ### **OS | Programming Language | Frameworks/Tools**
 <p align="left">
