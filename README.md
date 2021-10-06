@@ -1,22 +1,31 @@
 <img src="https://komarev.com/ghpvc/?username=cicerooficial&label=Profile%20views&color=0e75b6&style=flat" alt="cicerooficial" />
-<h3 align="center"> Hello <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Cícero Henrique</h3>
+<p align='center'>
+  <h3 align="center"> 
+    Hello <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Cícero Henrique
+  </h3>
+</p>
 
+<p align="left "> 
 * ### **About me:**
-<h4 align="left ">Bachelor of Information Systems with 5 years of experience in Digital Manufacturing technologies and FAB LABs by the public network of laboratories FAB LAB LIVRE SP. I am passionate about learning and using technology, always looking for new knowledge and challenges, currently I venture with Arduino, Raspberry, Robotics, Data and AI.</h4>
+  <h4> 
+    Bachelor of Information Systems with 5 years of experience in Digital Manufacturing technologies and FAB LABs by the public network of laboratories FAB LAB LIVRE SP. I am passionate about learning and using technology, always looking for new knowledge and challenges, currently I venture with Arduino, Raspberry, Robotics, Data and AI.
+  </h4>
+</p>
 
-* ### **Connect with me:**
-<div align="center">
+<p align="center">
+  * ### **Connect with me:**
 
-[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white&link=mailto:cicerooficial@gmail.com.com)](mailto:cicerooficial@gmail.com)&nbsp;&nbsp;
-[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cicero-henrique-santos/)&nbsp;&nbsp;
-[![Behance Badge](https://img.shields.io/badge/-Behance-blue?style=flat&logo=behance&logoColor=white)](https://www.behance.net/ccerohenrique)&nbsp;&nbsp;
-[![Kaggle Badge](https://img.shields.io/badge/-Kaggle-23BFFF?style=flat&logo=Kaggle&logoColor=white)](https://www.kaggle.com/cicerohenrique)&nbsp;&nbsp;
-[![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/c_hoficial)&nbsp;&nbsp;
-[![Youtube Badge](https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCi23a3VJwS6pWJvxyKaeZGQ)&nbsp;&nbsp;
-  
-</div>
+  [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white&link=mailto:cicerooficial@gmail.com.com)](mailto:cicerooficial@gmail.com)&nbsp;&nbsp;
+  [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cicero-henrique-santos/)&nbsp;&nbsp;
+  [![Behance Badge](https://img.shields.io/badge/-Behance-blue?style=flat&logo=behance&logoColor=white)](https://www.behance.net/ccerohenrique)&nbsp;&nbsp;
+  [![Kaggle Badge](https://img.shields.io/badge/-Kaggle-23BFFF?style=flat&logo=Kaggle&logoColor=white)](https://www.kaggle.com/cicerohenrique)&nbsp;&nbsp;
+  [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/c_hoficial)&nbsp;&nbsp;
+  [![Youtube Badge](https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCi23a3VJwS6pWJvxyKaeZGQ)&nbsp;&nbsp;
+</p>
 
+<p align="left "> 
 * ### **I am currently working on:** <h4>[Python](https://github.com/cicerooficial/curso_Python3), [Data Science Beginner](https://github.com/cicerooficial/curso_MENTORAMA_Data_Science_Beginner) [Big Data Enginner](https://github.com/cicerooficial/big-data-engineer-sematix) and [Cloud Data Engineer](https://github.com/cicerooficial/cloud-data-engineer-cognizant)</h4>
+</p>
 
 * ### **OS | Programming Language | Frameworks/Tools**
 <p align="left">
@@ -39,6 +48,7 @@
   <a href="https://jupyter.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" alt="jupyter-notebook" width="40" height="40"/> </a>
   <a href="https://www.arduino.cc/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a>
   <a href="https://www.raspberrypi.org/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/raspberry-pi.svg" alt="raspberry" width="40" height="40"/> </a>
+</p>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cicerooficial&layout=compact)](https://github.com/cicerooficial/github-readme-stats)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cicerooficial&show_icons=true&theme=algolia )
