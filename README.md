@@ -53,7 +53,7 @@
 ## **Habilidades e Ferramentas**:
 - **Banco de Dados:** SQL, MySQL, PostgreSQL, HBase, Hive, MongoDB, Redis e Elasticsearch.
 - **Linguagem de Programação:** HTML, CSS, JavaScript, Python e Java. 
-- **Desenvolvimento:** Git, Linux and Docker.
+- **Desenvolvimento:** Git, Linux e Docker.
 - **Data Enginner:** Kafka e Spark.
 - **Ferramentas:** VSCode, PyCharm, Jupyter e Postman.
 - **Hardware:** Arduino, ESP8266, ESP32 e Raspberry Pi.
