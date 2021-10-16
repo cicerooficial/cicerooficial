@@ -28,17 +28,7 @@
 
   Além disso, o curso também desenvolve conhecimentos em: 
 
-  • Módulos do Python, como PyQT5 para GUI, Selenium;
-
-  • Django para criação de sites e APIs;
-
-  • Bases de dados relacionais: SQLite3, MySQL e MariaDB;
-
-  • Testes no Python (com TDD básico);
-
-  • Expressões Regulares (Regex re);
-
-  • Padrões de projeto (Design Patterns da GoF).
+  • Módulos do Python, como PyQT5 para GUI, Selenium; • Django para criação de sites e APIs; • Bases de dados relacionais: SQLite3, MySQL e MariaDB; • Testes no Python (com TDD básico); • Expressões Regulares (Regex re); • Padrões de projeto (Design Patterns da GoF).
 
 * **[Data Science](https://github.com/cicerooficial/data-science-mentorama)**
 
