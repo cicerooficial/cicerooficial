@@ -44,7 +44,7 @@
 
 * **[Big Data Enginner](https://github.com/cicerooficial/big-data-engineer-sematix)**
 
-  Bootcamp promovido pela Semantix Inc. focado em ambientes e ferramentas para engenharia de dados como: Big Data FOundations, MongoDB, Redis, Kafka, Elastic e Spark.
+  Bootcamp promovido pela Semantix Inc. focado em ambientes e ferramentas para engenharia de dados como: Big Data Foundations, MongoDB, Redis, Kafka, Elastic e Spark.
 
 * **[Cloud Data Engineer](https://github.com/cicerooficial/cloud-data-engineer-cognizant)**
 
@@ -55,7 +55,7 @@
 - **Linguagem de Programação:** HTML, CSS, JavaScript, Python e Java. 
 - **Desenvolvimento:** Git, Linux e Docker.
 - **Data Enginner:** Kafka e Spark.
-- **Ferramentas:** VSCode, PyCharm, Jupyter e Postman.
+- **Ferramentas:** VSCode, PyCharm, Jupyter Notebook e Postman.
 - **Hardware:** Arduino, ESP8266, ESP32 e Raspberry Pi.
 
 
