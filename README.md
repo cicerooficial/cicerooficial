@@ -22,6 +22,14 @@
 
 ## **O que estou estudando:** 
 
+- **[Projeto Final Spark: Big Data Enginner](https://github.com/cicerooficial/projeto-final-big-data-enginner-sematix#enviar-os-dados-para-o-hdfs)**
+
+  Projeto com objetivo de promover os conhecimentos adquiridos durante o treinamento de [Big Data Enginner](https://github.com/cicerooficial/big-data-engineer-sematix) promovido pela Semantix Inc no segundo semestre de 2021.
+
+- **[Cloud Data Engineer](https://github.com/cicerooficial/cloud-data-engineer-cognizant)**
+
+  Bootcamp da DIO (Digital Inovation One) focado em engenharia de dados com cloud, conceitos de big data e criação de soluções em Python promovido pela Cognizant.
+
 * **[Python](https://github.com/cicerooficial/curso_Python3)**
 
   Curso voltado para desenvolver habilidades em Python 3 desde o básico (com lógica de programação), intermediário (com programação procedural e funcional) e avançado (com programação orientada a objetos). 
@@ -41,14 +49,6 @@
   • Construção de modelos analíticos, classificação e regressão com Machine Learning e Clusterização;
   • Treinar redes neurais usando frameworks aumentando a velocidade do trabalho;
   • Resolver problemas reais usando redes neurais.
-
-* **[Big Data Enginner](https://github.com/cicerooficial/big-data-engineer-sematix)**
-
-  Treinamento promovido pela Semantix Inc. focado em ambientes e ferramentas para engenharia de dados como: Big Data Foundations, MongoDB, Redis, Kafka, Elastic e Spark.
-
-* **[Cloud Data Engineer](https://github.com/cicerooficial/cloud-data-engineer-cognizant)**
-
-  Bootcamp da DIO (Digital Inovation One) focado em engenharia de dados com cloud, conceitos de big data e criação de soluções em Python promovido pela Cognizant.
 
 ## **Habilidades e Ferramentas**:
 - **Banco de Dados:** SQL, MySQL, PostgreSQL, HBase, Hive, MongoDB, Redis e Elasticsearch.
