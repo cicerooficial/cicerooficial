@@ -44,7 +44,7 @@
 
 * **[Big Data Enginner](https://github.com/cicerooficial/big-data-engineer-sematix)**
 
-  Bootcamp promovido pela Semantix Inc. focado em ambientes e ferramentas para engenharia de dados como: Big Data Foundations, MongoDB, Redis, Kafka, Elastic e Spark.
+  Treinamento promovido pela Semantix Inc. focado em ambientes e ferramentas para engenharia de dados como: Big Data Foundations, MongoDB, Redis, Kafka, Elastic e Spark.
 
 * **[Cloud Data Engineer](https://github.com/cicerooficial/cloud-data-engineer-cognizant)**
 
