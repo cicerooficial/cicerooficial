@@ -10,11 +10,11 @@
 
 
 ## **Sobre mim:**
-  <h4>
-      Bacharel em Sistemas de Informação com mais de 5 anos de experiência em tecnologias de Fabricação Digital e FAB LABs, pela rede pública de laboratórios FAB LAB LIVRE SP.
-      Sou apaixonado por aprender e ensinar tecnologia, estou sempre buscando novos conhecimentos e desafios.
-      Atualmente trabalho com Data Enginner e Data Science e me aventuro com projetos de automação, robótica e IoT(Internet das Coisas) utilizando Arduino, Raspberry e ESP8266/ESP32.
-  </h4>
+
+Bacharel em Sistemas de Informação com mais de 5 anos de experiência em tecnologias de Fabricação Digital e FAB LABs, pela rede pública de laboratórios FAB LAB LIVRE SP.
+Sou apaixonado por aprender e ensinar tecnologia, estou sempre buscando novos conhecimentos e desafios.
+Atualmente trabalho com Data Enginner e Data Science e me aventuro com projetos de automação, robótica e IoT(Internet das Coisas) utilizando Arduino, Raspberry e ESP8266/ESP32.
+
 
 ## **Me encontre em:** [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white&link=mailto:cicerooficial@gmail.com.com)](mailto:cicerooficial@gmail.com) [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cicero-henrique-santos/) [![Behance Badge](https://img.shields.io/badge/-Behance-blue?style=flat&logo=behance&logoColor=white)](https://www.behance.net/ccerohenrique) [![Kaggle Badge](https://img.shields.io/badge/-Kaggle-23BFFF?style=flat&logo=Kaggle&logoColor=white)](https://www.kaggle.com/cicerohenrique) [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/c_hoficial) [![Youtube Badge](https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCi23a3VJwS6pWJvxyKaeZGQ)
 
