@@ -16,9 +16,7 @@
       Atualmente trabalho com Data Enginner e Data Science e me aventuro com projetos de automação, robótica e IoT(Internet das Coisas) utilizando Arduino, Raspberry e ESP8266/ESP32.
   </h4>
 
-## **Me encontre em:**
-
-## <div align=center> [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white&link=mailto:cicerooficial@gmail.com.com)](mailto:cicerooficial@gmail.com) [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cicero-henrique-santos/) [![Behance Badge](https://img.shields.io/badge/-Behance-blue?style=flat&logo=behance&logoColor=white)](https://www.behance.net/ccerohenrique) [![Kaggle Badge](https://img.shields.io/badge/-Kaggle-23BFFF?style=flat&logo=Kaggle&logoColor=white)](https://www.kaggle.com/cicerohenrique) [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/c_hoficial) [![Youtube Badge](https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCi23a3VJwS6pWJvxyKaeZGQ)</div>
+## **Me encontre em:** [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white&link=mailto:cicerooficial@gmail.com.com)](mailto:cicerooficial@gmail.com) [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cicero-henrique-santos/) [![Behance Badge](https://img.shields.io/badge/-Behance-blue?style=flat&logo=behance&logoColor=white)](https://www.behance.net/ccerohenrique) [![Kaggle Badge](https://img.shields.io/badge/-Kaggle-23BFFF?style=flat&logo=Kaggle&logoColor=white)](https://www.kaggle.com/cicerohenrique) [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/c_hoficial) [![Youtube Badge](https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCi23a3VJwS6pWJvxyKaeZGQ)
 
 ## **O que estou estudando:** 
 
@@ -51,13 +49,13 @@
   • Resolver problemas reais usando redes neurais.
 
 ## **Habilidades e Ferramentas**:
-- **Banco de Dados:** SQL, MySQL, PostgreSQL, HBase, Hive, MongoDB, Redis e Elasticsearch.
+- **Banco de Dados:** SQL, MySQL, PostgreSQL, MongoDB, Redis e Elasticsearch.
 - **Linguagem de Programação:** HTML, CSS, JavaScript, Python e Java. 
 - **Desenvolvimento:** Git, Linux e Docker.
-- **Data Enginner:** Kafka e Spark.
-- **Ferramentas:** VSCode, PyCharm, Jupyter Notebook e Postman.
+- **Data Enginner:** Hadoop, HBase, Hive, Kafka e Spark.
+- **Ferramentas:** VSCode, PyCharm, Jupyter Notebook, Postman e ArduinoIDE.
 - **Hardware:** Arduino, ESP8266, ESP32 e Raspberry Pi.
 
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cicerooficial&show_icons=true&theme=algolia)
-
+<a href="https://github.com/cicerooficial">
+  <img height="180em" align="center"  src="https://github-readme-stats.vercel.app/api?username=cicerooficial&count_private=true&show_icons=true&theme=algolia&hide_border=true&include_all_commits=true&layout=compact&)" /></a><a href="https://github.com/rayanaprata"><img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cicerooficial&langs_count=8&layout=compact&theme=algolia&hide_border=true&include_all_commits=true&count_private=true&)" />
+</a>
