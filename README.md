@@ -9,7 +9,7 @@
   </h1>
 
 
-## **Sobre mim:**
+## Sobre mim:
 
 Bacharel em Sistemas de Informação com mais de 5 anos de experiência em tecnologias de Fabricação Digital e FAB LABs, pela rede pública de laboratórios FAB LAB LIVRE SP.
 Sou apaixonado por aprender e ensinar tecnologia, estou sempre buscando novos conhecimentos e desafios.
@@ -18,7 +18,7 @@ Atualmente trabalho com Data Enginner e Data Science e me aventuro com projetos 
 
 ## **Me encontre em:** [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white&link=mailto:cicerooficial@gmail.com.com)](mailto:cicerooficial@gmail.com) [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cicero-henrique-santos/) [![Behance Badge](https://img.shields.io/badge/-Behance-blue?style=flat&logo=behance&logoColor=white)](https://www.behance.net/ccerohenrique) [![Kaggle Badge](https://img.shields.io/badge/-Kaggle-23BFFF?style=flat&logo=Kaggle&logoColor=white)](https://www.kaggle.com/cicerohenrique) [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/c_hoficial) [![Youtube Badge](https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCi23a3VJwS6pWJvxyKaeZGQ)
 
-## **O que estou estudando:** 
+## O que estou estudando: 
 
 - **[Projeto Final Spark: Big Data Enginner](https://github.com/cicerooficial/projeto-final-big-data-enginner-sematix#enviar-os-dados-para-o-hdfs)**
 
@@ -48,7 +48,7 @@ Atualmente trabalho com Data Enginner e Data Science e me aventuro com projetos 
   • Treinar redes neurais usando frameworks aumentando a velocidade do trabalho;
   • Resolver problemas reais usando redes neurais.
 
-## **Habilidades e Ferramentas**:
+## Habilidades e Ferramentas:
 - **Banco de Dados:** SQL, MySQL, PostgreSQL, MongoDB, Redis e Elasticsearch.
 - **Linguagem de Programação:** HTML, CSS, JavaScript, Python e Java. 
 - **Desenvolvimento:** Git, Linux e Docker.
