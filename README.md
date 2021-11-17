@@ -22,7 +22,7 @@ Atualmente trabalho com Data Enginner e Data Science e me aventuro com projetos 
 
 - **[Projeto Final Spark: Big Data Enginner](https://github.com/cicerooficial/projeto-final-big-data-enginner-sematix#enviar-os-dados-para-o-hdfs)**
 
-  Projeto com objetivo de promover os conhecimentos adquiridos durante o treinamento de [Big Data Enginner](https://github.com/cicerooficial/big-data-engineer-sematix) promovido pela Semantix Inc no segundo semestre de 2021.
+  Projeto com objetivo de desenvolver os conhecimentos adquiridos durante o treinamento de [Big Data Enginner](https://github.com/cicerooficial/big-data-engineer-sematix) promovido pela Semantix Inc no segundo semestre de 2021.
 
 - **[Cloud Data Engineer](https://github.com/cicerooficial/cloud-data-engineer-cognizant)**
 
