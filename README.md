@@ -24,17 +24,23 @@ Atualmente trabalho com Data Enginner e Data Science e me aventuro com projetos 
 
   Projeto com objetivo de desenvolver os conhecimentos adquiridos durante o treinamento de [Big Data Enginner](https://github.com/cicerooficial/big-data-engineer-sematix) promovido pela Semantix Inc no segundo semestre de 2021.
 
-- **[Cloud Data Engineer](https://github.com/cicerooficial/cloud-data-engineer-cognizant)**
-
-  Bootcamp da DIO (Digital Inovation One) focado em engenharia de dados com cloud, conceitos de big data e criação de soluções em Python promovido pela Cognizant.
-
 * **[Python](https://github.com/cicerooficial/curso_Python3)**
 
   Curso voltado para desenvolver habilidades em Python 3 desde o básico (com lógica de programação), intermediário (com programação procedural e funcional) e avançado (com programação orientada a objetos). 
 
   Além disso, o curso também desenvolve conhecimentos em: 
 
-  • Módulos do Python, como PyQT5 para GUI, Selenium; • Django para criação de sites e APIs; • Bases de dados relacionais: SQLite3, MySQL e MariaDB; • Testes no Python (com TDD básico); • Expressões Regulares (Regex re); • Padrões de projeto (Design Patterns da GoF).
+  • Módulos do Python, como PyQT5 para GUI, Selenium; 
+
+  • Django para criação de sites e APIs; 
+
+  • Bases de dados relacionais: SQLite3, MySQL e MariaDB; 
+
+  • Testes no Python (com TDD básico); 
+
+  • Expressões Regulares (Regex re); 
+
+  • Padrões de projeto (Design Patterns da GoF).
 
 * **[Data Science](https://github.com/cicerooficial/data-science-mentorama)**
 
@@ -49,12 +55,14 @@ Atualmente trabalho com Data Enginner e Data Science e me aventuro com projetos 
   • Resolver problemas reais usando redes neurais.
 
 ## Habilidades e Ferramentas:
-- **Banco de Dados:** SQL, MySQL, PostgreSQL, MongoDB, Redis e Elasticsearch.
-- **Linguagem de Programação:** HTML, CSS, JavaScript, Python e Java. 
-- **Desenvolvimento:** Git, Linux e Docker.
+- **Sistema Operacional:** Windows e Linux.
+- **Desenvolvimento:** Shell Script, Git e Docker.
+- **Linguagem de Marcação/Programação:** HTML, CSS, JavaScript, Python, Java, C/C++. 
+- **Banco de Dados:** SQL, MySQL, PostgreSQL, MongoDB, Cassandra, Redis e Elasticsearch.
 - **Data Enginner:** Hadoop, HBase, Hive, Kafka e Spark.
-- **Ferramentas:** VSCode, PyCharm, Jupyter Notebook, Postman e ArduinoIDE.
-- **Hardware:** Arduino, ESP8266, ESP32 e Raspberry Pi.
+- **Cloud:** Amazon AWS, Google Cloud Plataform e Microsoft Azure.
+- **Ferramentas:** Postman, VSCode, PyCharm, Jupyter Notebook, e ArduinoIDE.
+- **Hardware/IoT:** Arduino, ESP8266/ESP32 e Raspberry Pi.
 
 <a href="https://github.com/cicerooficial">
   <img height="180em" align="center"  src="https://github-readme-stats.vercel.app/api?username=cicerooficial&count_private=true&show_icons=true&theme=algolia&hide_border=true&include_all_commits=true&layout=compact&)" /></a><a href="https://github.com/cicerooficial"><img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cicerooficial&langs_count=8&layout=compact&theme=algolia&hide_border=true&include_all_commits=true&count_private=true&)" />
