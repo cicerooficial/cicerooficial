@@ -51,7 +51,7 @@ Nas horas vagas me aventuro em projetos de automação, robótica e IoT utilizan
 - **Cloud:** Amazon AWS, Google Cloud Plataform e Microsoft Azure.
 - **Ferramentas:** Postman, VSCode, PyCharm, Jupyter Notebook, e ArduinoIDE.
 - **Hardware/IoT:** Arduino, ESP8266/ESP32 e Raspberry Pi.
-- **Fabricação Digital:** Desenho Digital(Inkscape, GIMP), Modelagem 3D(FreeCAD, ScketchUP), Impressão 3D, Corte a Laser, Fresadora CNC, Eletrônica Básica(Fritzing), Programação Física(Arduino, ESP:8266/32 e Raspberry Pi) e Robótica Educacional.
+- **Fabricação Digital:** Desenho Digital(Inkscape, GIMP), Modelagem 3D(FreeCAD, ScketchUP), Impressão 3D, Corte a Laser, Fresadora CNC, Eletrônica Básica(Fritzing) e Robótica Educacional.
 
 ----------
 
