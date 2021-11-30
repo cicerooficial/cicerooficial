@@ -2,7 +2,7 @@
 
 Técnico em Informática e Bacharel em Sistemas de Informação com mais de 5 anos de experiência em tecnologias de Programação, Fabricação Digital e FAB LABs, pela rede pública de laboratórios FAB LAB LIVRE SP.
 
-Atualmente me aprofundando em Python, Cloud Computing, Data Enginner.
+Atualmente me aprofundando em Desenvolvimento de Cloud Computing e Data Enginner.
 
 Nas horas vagas me aventuro em projetos de automação, robótica e IoT utilizando Arduino, ESP8266/ESP32 e Raspberry.
 
