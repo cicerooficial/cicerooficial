@@ -14,7 +14,7 @@ Nas horas vagas me aventuro em projetos de automação, robótica e IoT utilizan
 [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/c_hoficial) 
 [![Youtube Badge](https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCi23a3VJwS6pWJvxyKaeZGQ)
 
-<hr></hr>
+----------
 
 ## **O que estou estudando:** 
 
@@ -32,7 +32,7 @@ Nas horas vagas me aventuro em projetos de automação, robótica e IoT utilizan
 
   Domínio das linguagens Python e R afim de trabalhar com grandes sequências, processar dados estátiscos, trabalhar com gráficos e criar painéis; Aprender a utilizar bibliotecas Numpy, Pandas; Utilizar bancos de dados SQL, SQLite3, PostgreSQL e MongoDB em testes de idéias, formular hipóteses e testá-las; Criar sistemas de recomendação; Construção de modelos analíticos, classificação e regressão com Machine Learning e Clusterização; Treinar redes neurais usando frameworks aumentando a velocidade do trabalho; Resolver problemas reais usando redes neurais.
 
-<hr></hr>
+----------
 
 ## **Projetos que estou desenvolvendo:** 
 
@@ -40,7 +40,7 @@ Nas horas vagas me aventuro em projetos de automação, robótica e IoT utilizan
 
   Projeto com objetivo de desenvolver os conhecimentos adquiridos durante o treinamento de [Big Data Enginner](https://github.com/cicerooficial/big-data-engineer-sematix) promovido pela Semantix Inc no segundo semestre de 2021.
 
-<hr></hr>
+----------
 
 ## **Habilidades e Ferramentas:**
 - **Sistema Operacional:** Windows e Linux.
@@ -51,8 +51,9 @@ Nas horas vagas me aventuro em projetos de automação, robótica e IoT utilizan
 - **Cloud:** Amazon AWS, Google Cloud Plataform e Microsoft Azure.
 - **Ferramentas:** Postman, VSCode, PyCharm, Jupyter Notebook, e ArduinoIDE.
 - **Hardware/IoT:** Arduino, ESP8266/ESP32 e Raspberry Pi.
+- **Fabricação Digital:** Desenho Digital(Inkscape, GIMP), Modelagem 3D(FreeCAD, ScketchUP), Impressão 3D, Corte a Laser, Fresadora CNC, Eletrônica Básica(Fritzing), Programação Física(Arduino, ESP:8266/32 e Raspberry Pi) e Robótica Educacional.
 
-<hr></hr>
+----------
 
 <a href="https://github.com/cicerooficial">
   <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=cicerooficial&count_private=true&show_icons=true&theme=algolia&hide_border=true&include_all_commits=true&layout=compact&)" /></a>
