@@ -1,18 +1,28 @@
 ## **Sobre mim:**
 
-Técnico em Informática e Bacharel em Sistemas de Informação com mais de 5 anos de experiência em tecnologias de Programação, Fabricação Digital e FAB LABs, pela rede pública de laboratórios FAB LAB LIVRE SP.
+Com mais de 5 anos de experiência em desenvolvimento de sistemas, tecnologias de fabricação digital e inovação, possuo habilidades de resolução de problemas de experiências na criação e projetos de software e manufatura, em um ambiente de criatividade e prototipação.
+Atualmente estou me especializado em Data Enginner e Cloud Computing.
 
-Atualmente me aprofundando em Desenvolvimento de Cloud Computing e Data Enginner.
+<center>
 
-Nas horas vagas me aventuro em projetos de automação, robótica e IoT utilizando Arduino, ESP8266/ESP32 e Raspberry.
-
-## **Me encontre em:** 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white&link=mailto:cicerooficial@gmail.com.com)](mailto:cicerooficial@gmail.com) 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cicero-henrique-santos/) 
 [![Behance Badge](https://img.shields.io/badge/-Behance-blue?style=flat&logo=behance&logoColor=white)](https://www.behance.net/ccerohenrique) 
 [![Kaggle Badge](https://img.shields.io/badge/-Kaggle-23BFFF?style=flat&logo=Kaggle&logoColor=white)](https://www.kaggle.com/cicerohenrique) 
 [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/c_hoficial) 
 [![Youtube Badge](https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCi23a3VJwS6pWJvxyKaeZGQ)
+
+</center>
+
+### **Habilidades e Ferramentas:**
+- **Sistema Operacional:** Windows e Linux;
+- **Desenvolvimento:** Shell Script, Git e Docker;
+- **Linguagem:** HTML, CSS, JavaScript, Python, Java, C/C++;
+- **Banco de Dados:** SQL, MySQL, PostgreSQL, MongoDB, Cassandra;
+- **Data Engineer:** Hadoop (HDFS, HBase, Hive), Redis, Elastic, Kafka e Spark;
+- **Cloud Computing:** Amazon AWS, Google Cloud Plataform e Microsoft Azure;
+- **Ferramentas:** Postman, VSCode, PyCharm, Jupyter Notebook, e ArduinoIDE;
+- **Hardware/IoT:** Arduino, ESP8266/ESP32 e Raspberry Pi;
 
 ----------
 
@@ -39,19 +49,12 @@ Nas horas vagas me aventuro em projetos de automação, robótica e IoT utilizan
 - **[Projeto Final Spark: Big Data Enginner](https://github.com/cicerooficial/projeto-final-big-data-enginner-sematix#enviar-os-dados-para-o-hdfs)**
 
   Projeto com objetivo de desenvolver os conhecimentos adquiridos durante o treinamento de [Big Data Enginner](https://github.com/cicerooficial/big-data-engineer-sematix) promovido pela Semantix Inc no segundo semestre de 2021.
+- **[Desafio: Capturar dados de Loja de Aplicativo - Google Play](https://github.com/cicerooficial/desafio-case-python-sauter)**
+
+  Desafio de Python como objetivo de refletir alguns desafios que um Engenheiro de Dados possa enfrentar na Sauter.
 
 ----------
 
-## **Habilidades e Ferramentas:**
-- **Sistema Operacional:** Windows e Linux.
-- **Desenvolvimento:** Shell Script, Git e Docker.
-- **Linguagem:** HTML, CSS, JavaScript, Python, Java, C/C++. 
-- **Banco de Dados:** SQL, MySQL, PostgreSQL, MongoDB, Cassandra, Redis e Elasticsearch.
-- **Data Enginner:** Hadoop, HBase, Hive, Kafka e Spark.
-- **Cloud Computing:** Amazon AWS, Google Cloud Plataform e Microsoft Azure.
-- **Ferramentas:** Postman, VSCode, PyCharm, Jupyter Notebook, e ArduinoIDE.
-- **Hardware/IoT:** Arduino, ESP8266/ESP32 e Raspberry Pi.
-- **Fabricação Digital:** Desenho Digital(Inkscape, GIMP), Modelagem 3D(FreeCAD, ScketchUP), Impressão 3D, Corte a Laser, Fresadora CNC, Eletrônica Básica(Fritzing) e Robótica Educacional.
 
 ----------
 
