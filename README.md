@@ -55,9 +55,9 @@ Atualmente estou me especializado em Data Enginner e Cloud Computing.
 
 ----------
 
-
-----------
-
 <a href="https://github.com/cicerooficial">
-  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=cicerooficial&count_private=true&show_icons=true&theme=algolia&hide_border=true&include_all_commits=true&layout=compact&)" /></a>
-  <a href="https://github.com/cicerooficial"><img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cicerooficial&langs_count=8&layout=compact&theme=algolia&hide_border=true&include_all_commits=true&count_private=true&)" /></a>
+    <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=cicerooficial&count_private=true&show_icons=true&theme=algolia&hide_border=true&include_all_commits=true&layout=compact&)" />
+</a>
+<a href="https://github.com/cicerooficial">
+    <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cicerooficial&langs_count=8&layout=compact&theme=algolia&hide_border=true&include_all_commits=true&count_private=true&)" />
+</a>
