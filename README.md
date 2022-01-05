@@ -56,6 +56,7 @@ Atualmente estou me especializado em Data Enginner e Cloud Computing.
 [![Kaggle Badge](https://img.shields.io/badge/-Kaggle-23BFFF?style=flat&logo=Kaggle&logoColor=white)](https://www.kaggle.com/cicerohenrique) 
 
 </center>
+
 ----------
 
 <a href="https://github.com/cicerooficial">
