@@ -3,17 +3,6 @@
 Com mais de 5 anos de experiência em desenvolvimento de sistemas, tecnologias de fabricação digital e inovação, possuo habilidades de resolução de problemas de experiências na criação e projetos de software e manufatura, em um ambiente de criatividade e prototipação.
 Atualmente estou me especializado em Data Enginner e Cloud Computing.
 
-<center>
-
-[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white&link=mailto:cicerooficial@gmail.com.com)](mailto:cicerooficial@gmail.com) 
-[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cicero-henrique-santos/) 
-[![Behance Badge](https://img.shields.io/badge/-Behance-blue?style=flat&logo=behance&logoColor=white)](https://www.behance.net/ccerohenrique) 
-[![Kaggle Badge](https://img.shields.io/badge/-Kaggle-23BFFF?style=flat&logo=Kaggle&logoColor=white)](https://www.kaggle.com/cicerohenrique) 
-[![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/c_hoficial) 
-[![Youtube Badge](https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCi23a3VJwS6pWJvxyKaeZGQ)
-
-</center>
-
 ### **Habilidades e Ferramentas:**
 - **Sistema Operacional:** Windows e Linux;
 - **Desenvolvimento:** Shell Script, Git e Docker;
@@ -53,6 +42,20 @@ Atualmente estou me especializado em Data Enginner e Cloud Computing.
 
   Desafio de Python como objetivo de refletir alguns desafios que um Engenheiro de Dados possa enfrentar na Sauter.
 
+----------
+
+## **Meus contatos:** 
+
+<center>
+
+[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white&link=mailto:cicerooficial@gmail.com.com)](mailto:cicerooficial@gmail.com) 
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cicero-henrique-santos/) 
+[![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/c_hoficial) 
+[![Youtube Badge](https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCi23a3VJwS6pWJvxyKaeZGQ)
+[![Behance Badge](https://img.shields.io/badge/-Behance-blue?style=flat&logo=behance&logoColor=white)](https://www.behance.net/ccerohenrique) 
+[![Kaggle Badge](https://img.shields.io/badge/-Kaggle-23BFFF?style=flat&logo=Kaggle&logoColor=white)](https://www.kaggle.com/cicerohenrique) 
+
+</center>
 ----------
 
 <a href="https://github.com/cicerooficial">
