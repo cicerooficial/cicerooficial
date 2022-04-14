@@ -1,50 +1,43 @@
 ## **Sobre mim:**
 
-Com mais de 5 anos de experiência em desenvolvimento de sistemas, tecnologias de fabricação digital e inovação, possuo habilidades de resolução de problemas de experiências na criação e projetos de software e manufatura, em um ambiente de criatividade e prototipação.
-Atualmente estou me especializado em Data Enginner e Cloud Computing.
+Desde 2013 atuando com desenvolvimento de sistemas e tecnologias de fabricação digital.
+Atualmente estou especializando-se em dados e computação em nuvem.
 
-### **Habilidades e Ferramentas:**
-- **Sistema Operacional:** Windows e Linux;
-- **Desenvolvimento:** Shell Script, Git e Docker;
-- **Linguagem:** HTML, CSS, JavaScript, Python, Java, C/C++;
-- **Banco de Dados:** SQL, MySQL, PostgreSQL, MongoDB, Cassandra;
-- **Data Engineer:** Hadoop (HDFS, HBase, Hive), Redis, Elastic, Kafka e Spark;
-- **Cloud Computing:** Amazon AWS, Google Cloud Plataform e Microsoft Azure;
-- **Ferramentas:** Postman, VSCode, PyCharm, Jupyter Notebook, e ArduinoIDE;
-- **Hardware/IoT:** Arduino, ESP8266/ESP32 e Raspberry Pi;
+
 
 ----------
 
-## **O que estou estudando:** 
+## **O que estou estudando:**
 
 - **[Python](https://github.com/cicerooficial/curso_Python3)**
-
+  
   Curso voltado para desenvolver habilidades em Python 3 desde o básico (com lógica de programação), intermediário (com programação procedural e funcional) e avançado (com programação orientada a objetos). 
-
+  
   Além disso, o curso também desenvolve conhecimentos em: 
-
+  
   Módulos do Python, como PyQT5 para GUI, Selenium; Django para criação de sites e APIs; Bases de dados relacionais: SQLite3, MySQL e MariaDB; Testes no Python (com TDD básico); Expressões Regulares (Regex re); Padrões de projeto (Design Patterns da GoF).
 
 - **[Data Science](https://github.com/cicerooficial/data-science-mentorama)**
-
+  
   O curso Cientista de dados do zero ao PRO com duração de 8 Meses, tem como principal objetivo habilitar o profissional para ser capaz de trabalhar com:
-
+  
   Domínio das linguagens Python e R afim de trabalhar com grandes sequências, processar dados estátiscos, trabalhar com gráficos e criar painéis; Aprender a utilizar bibliotecas Numpy, Pandas; Utilizar bancos de dados SQL, SQLite3, PostgreSQL e MongoDB em testes de idéias, formular hipóteses e testá-las; Criar sistemas de recomendação; Construção de modelos analíticos, classificação e regressão com Machine Learning e Clusterização; Treinar redes neurais usando frameworks aumentando a velocidade do trabalho; Resolver problemas reais usando redes neurais.
 
 ----------
 
-## **Projetos que estou desenvolvendo:** 
+## **Projetos que estou desenvolvendo:**
 
 - **[Projeto Final Spark: Big Data Enginner](https://github.com/cicerooficial/projeto-final-big-data-enginner-sematix#enviar-os-dados-para-o-hdfs)**
-
+  
   Projeto com objetivo de desenvolver os conhecimentos adquiridos durante o treinamento de [Big Data Enginner](https://github.com/cicerooficial/big-data-engineer-sematix) promovido pela Semantix Inc no segundo semestre de 2021.
-- **[Desafio: Capturar dados de Loja de Aplicativo - Google Play](https://github.com/cicerooficial/desafio-case-python-sauter)**
 
+- **[Desafio: Capturar dados de Loja de Aplicativo - Google Play](https://github.com/cicerooficial/desafio-case-python-sauter)**
+  
   Desafio de Python como objetivo de refletir alguns desafios que um Engenheiro de Dados possa enfrentar na Sauter.
 
 ----------
 
-## **Meus contatos:** 
+## **Meus contatos:**
 
 <center>
 
