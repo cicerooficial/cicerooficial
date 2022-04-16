@@ -1,9 +1,17 @@
 ## **Sobre mim:**
 
-Desde 2013 atuando com desenvolvimento de sistemas e tecnologias de fabricação digital.
-Atualmente estou especializando-se em dados e computação em nuvem.
+Olá, sou o Cícero Henrique! 
+Tenho 27 anos, ingressei na área de tecnologia em 2014 no curso técnico em informática e em 2020 me formei em bacharel em sistemas de informação.
+A partir de 2020 realizei bootcamps com foco em Data Engineer e atualmente faço parte do time da Sauter Tecnologia, onde estou me especializando em Engenharia de Dados e Computação em Nuvem.
 
+## **Meus contatos:**
 
+<center>
+
+[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white&link=mailto:cicerooficial@gmail.com.com)](mailto:cicerooficial@gmail.com) 
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cicero-henrique-santos/) 
+
+</center>
 
 ----------
 
@@ -34,21 +42,6 @@ Atualmente estou especializando-se em dados e computação em nuvem.
 - **[Desafio: Capturar dados de Loja de Aplicativo - Google Play](https://github.com/cicerooficial/desafio-case-python-sauter)**
   
   Desafio de Python como objetivo de refletir alguns desafios que um Engenheiro de Dados possa enfrentar na Sauter.
-
-----------
-
-## **Meus contatos:**
-
-<center>
-
-[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white&link=mailto:cicerooficial@gmail.com.com)](mailto:cicerooficial@gmail.com) 
-[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cicero-henrique-santos/) 
-[![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/c_hoficial) 
-[![Youtube Badge](https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCi23a3VJwS6pWJvxyKaeZGQ)
-[![Behance Badge](https://img.shields.io/badge/-Behance-blue?style=flat&logo=behance&logoColor=white)](https://www.behance.net/ccerohenrique) 
-[![Kaggle Badge](https://img.shields.io/badge/-Kaggle-23BFFF?style=flat&logo=Kaggle&logoColor=white)](https://www.kaggle.com/cicerohenrique) 
-
-</center>
 
 ----------
 
