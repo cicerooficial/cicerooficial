@@ -4,14 +4,8 @@ Olá, sou o Cícero Henrique!
 Tenho 27 anos, ingressei na área de tecnologia em 2014 no curso técnico em informática e em 2020 me formei em bacharel em sistemas de informação.
 A partir de 2020 realizei bootcamps com foco em Data Engineer e atualmente faço parte do time da Sauter Tecnologia, onde estou me especializando em Engenharia de Dados e Computação em Nuvem.
 
-## **Meus contatos:**
 
-<center>
-
-[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white&link=mailto:cicerooficial@gmail.com.com)](mailto:cicerooficial@gmail.com) 
-[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cicero-henrique-santos/) 
-
-</center>
+### **Meus contatos:** [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white&link=mailto:cicerooficial@gmail.com.com)](mailto:cicerooficial@gmail.com) [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cicero-henrique-santos/) 
 
 ----------
 
