@@ -29,13 +29,6 @@ A partir de 2020 realizei bootcamps com foco em Data Engineer e atualmente faço
 
 ## **Projetos que estou desenvolvendo:**
 
-- **[Projeto Final Spark: Big Data Enginner](https://github.com/cicerooficial/projeto-final-big-data-enginner-sematix#enviar-os-dados-para-o-hdfs)**
-  
-  Projeto com objetivo de desenvolver os conhecimentos adquiridos durante o treinamento de [Big Data Enginner](https://github.com/cicerooficial/big-data-engineer-sematix) promovido pela Semantix Inc no segundo semestre de 2021.
-
-- **[Desafio: Capturar dados de Loja de Aplicativo - Google Play](https://github.com/cicerooficial/desafio-case-python-sauter)**
-  
-  Desafio de Python como objetivo de refletir alguns desafios que um Engenheiro de Dados possa enfrentar na Sauter.
 
 ----------
 
