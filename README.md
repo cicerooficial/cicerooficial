@@ -1,8 +1,9 @@
 ## **Sobre mim:**
 
-Olá, sou o Cícero Henrique! 
-Tenho 27 anos, ingressei na área de tecnologia em 2014 no curso técnico em informática e em 2020 me formei em bacharel em sistemas de informação.
-A partir de 2020 realizei bootcamps com foco em Data Engineer e atualmente faço parte do time da Sauter Tecnologia, onde estou me especializando em Engenharia de Dados e Computação em Nuvem.
+Oi, sou o Cícero Henrique! 
+Atuo na área de tecnologia desde 2014 e possuo bacharel em Sistemas de Informação.
+Desde de 2020 tenho direcionado meu foco para área de dados, onde já atuei como Data Engineer e atualmente atuo como Machine Learning Engineer no time de tecnologia do banco Santander, a F1rst Tecnologia. 
+Estou me especializando na área de Engenharia de Software com foco em Dados, Machine Learning e Computação em Nuvem.
 
 ----------
 
