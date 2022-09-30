@@ -2,9 +2,9 @@
 
 Oi, sou o Cícero Henrique! 
 Atuo na área de tecnologia desde 2014 e possuo bacharel em Sistemas de Informação.
-Desde de 2020 tenho direcionado meu foco para área de dados, onde já atuei como Data Engineer e atualmente atuo como Machine Learning Engineer no time de tecnologia do banco Santander, a F1rst Tecnologia. 
+Desde de 2020 tenho direcionado meu foco para área de dados, onde já atuei como Data Engineer e hoje atuo como Machine Learning Engineer no time de tecnologia do banco Santander, a F1rst Tecnologia. 
 
-Estou me especializando na área de Engenharia de Software com foco em Dados, Machine Learning e Computação em Nuvem.
+Atualmente estou me especializando na área de Engenharia de Software com foco em Dados, Machine Learning e Computação em Nuvem.
 
 ----------
 
